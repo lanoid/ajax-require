@@ -1,0 +1,1 @@
+require(['jquery', 'helpers'], function($,helpers){});
